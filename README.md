@@ -1,10 +1,10 @@
 # botv3 CAD Model
 
-This is the STEP file for the botv3 mobile robot assembly.
+This is the stl file for the botv3 mobile robot assembly.
 
 ## Files
 
-- `botv3_v5.step` — Complete CAD model with all components and assembly structure.
+- `botv3_v5.stl` — Complete CAD model with all components and assembly structure.
 
 ## Getting Dimensions in Fusion 360
 
